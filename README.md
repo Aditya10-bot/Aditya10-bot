@@ -1,46 +1,42 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Aditya%20Fikri%20Pratama&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20|%20Network%20Administrator&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=220&section=header&text=Aditya%20Fikri%20Pratama&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20|%20Network%20Administrator&descFontSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- Typing SVG Animation -->
 <a href="https://github.com/Aditya10-bot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&height=50&lines=%E2%9A%A1+Hi!+I'm+Aditya+Fikri+Pratama;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%9A%80+PHP+%26+Laravel+Enthusiast;%F0%9F%A4%96+AI+Integration+%26+Network+Admin;%F0%9F%8C%9F+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&height=45&lines=Hi,+I'm+Aditya+Fikri+Pratama;Full-Stack+Web+Developer;PHP+%26+Laravel+Specialist;Exploring+AI+Integration+%26+Networking;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Visitor Counter & Status Badges -->
+<!-- Visitor Counter & Status -->
 <p align="center">
-  <a href="https://github.com/Aditya10-bot">
-    <img src="https://komarev.com/ghpvc/?username=Aditya10-bot&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya10-bot&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
 </p>
 
 </div>
 
 <br/>
 
-## ⚡ About Me
+## About Me
 
-> *Transforming ideas into high-performance web applications and seamless network infrastructure.*
+Full-Stack Web Developer and Network Administrator based in Indonesia. Focused on building reliable web applications—including Point of Sale (POS) systems, Information Systems, and Decision Support Systems (DSS)—as well as integrating AI technologies and managing network infrastructure.
 
-- 👨‍💻 **Identity:** Full-Stack Developer based in Indonesia (`Aditya10-bot`)
-- 💻 **Web Specialization:** Full-Stack Web Development, Point of Sale (POS/Kasir), Information Systems, & Decision Support Systems (DSS/SPK)
-- 📡 **Networking Skills:** Network Administration (RJ45 Crimping, Network Topology Configuration)
-- 🤖 **Current Pursuit:** Modern Web Development (PHP & Laravel), AI Integration into Web Applications
-- 🎯 **Mission:** Building scalable, clean, and user-centric software solutions
-- ⚡ **Fun Fact:** I enjoy bridging the gap between hardware network logic and modern web software!
+- **Username:** Aditya10-bot
+- **Specialization:** Full-Stack Web Development & Network Administration
+- **Core Tech:** PHP, Laravel, JavaScript, MySQL, HTML5, CSS3, Bootstrap
+- **Networking:** Network Administration, RJ45 Crimping, Network Topology Configuration
+- **Interests:** AI Integration, Web Optimization, Scalable Software Architecture
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🌐 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -50,7 +46,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🗄️ Databases & Developer Tools
+### Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -59,31 +55,29 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
-### 💡 Core Focus & Competencies
+### Core Competencies
 <p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-00F5D4?style=for-the-badge&logo=codefactor&logoColor=black" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Network%20Admin%20(RJ45%2FTopology)-7B2CBF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/AI%20Integration-FF007F?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-00F5D4?style=for-the-badge&logo=codefactor&logoColor=black" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Network%20Administration-7B2CBF?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Administration" />
+  <img src="https://img.shields.io/badge/AI%20Integration-FF007F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
 </p>
 
 <br/>
 
-## 📈 GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&hide_border=true&title_color=ff2a74&icon_color=00f5d4&text_color=ffffff&bg_color=0d1117" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10-bot&theme=radical&hide_border=true&background=0d1117&ring=ff2a74&fire=00f5d4&currStreakLabel=00f5d4" width="49%" alt="GitHub Streak" />
 
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_border=true&title_color=ff2a74&text_color=ffffff&bg_color=0d1117" width="60%" alt="Top Languages" />
-
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -95,9 +89,9 @@
 
 <br/>
 
-## 📫 Connect With Me
+## Contact
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Aditya10-bot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -115,6 +109,6 @@
 <br/>
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=100&section=footer" width="100%" />
 
 </div>
