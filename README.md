@@ -91,7 +91,7 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+> *"Programming is not about what you know, but about what you can figure out."*
 
 <br/>
 
