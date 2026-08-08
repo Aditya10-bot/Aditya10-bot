@@ -64,25 +64,6 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-  <!-- Card Stats Utama -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
-  
-  <!-- Card Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10-bot&theme=radical" width="400" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_progress=false" width="400" alt="Top Languages" />
-
-</div>
-
-<br/>
-
 ## Contribution Graph
 
 <div align="center">
