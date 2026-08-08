@@ -1,24 +1,29 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=220&section=header&text=Aditya%20Fikri%20Pratama&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20|%20Network%20Administrator&descFontSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+<!-- 1. HEADER BANNER BERGELOMBANG ANIMATIF -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=240&section=header&text=Aditya%20Fikri%20Pratama&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20|%20Network%20Administrator&descFontSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 
 <br/>
 
-<!-- Typing SVG Animation -->
+<!-- 2. ANIMASI TEKS KETIK (TYPING SVG) -->
 <a href="https://github.com/Aditya10-bot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&height=45&lines=Hi,+I'm+Aditya+Fikri+Pratama;Full-Stack+Web+Developer;PHP+%26+Laravel+Specialist;Exploring+AI+Integration+%26+Networking;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Specialist;AI+Integration+%26+Networking;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Visitor Counter & Status -->
+<!-- STATUS & VISITOR COUNTER BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya10-bot&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
 </p>
 
 </div>
+
+<br/>
+
+<!-- GARIS PEMISAH GRAFIS 1 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 <br/>
 
@@ -31,6 +36,11 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 - **Core Tech:** PHP, Laravel, JavaScript, MySQL, HTML5, CSS3, Bootstrap
 - **Networking:** Network Administration, RJ45 Crimping, Network Topology Configuration
 - **Interests:** AI Integration, Web Optimization, Scalable Software Architecture
+
+<br/>
+
+<!-- GARIS PEMISAH GRAFIS 2 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 <br/>
 
@@ -64,8 +74,23 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 
 <br/>
 
-## Contribution Graph
+<!-- GARIS PEMISAH GRAFIS 3 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
+<br/>
+
+## Activity & Contribution Graph
+
+<!-- GRAFIK AKTIVITAS SVG DENGAN GELOMBANG ANIMATIF -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya10-bot&theme=react-dark&hide_border=true&color=00f5d4&line=ff007f&point=ffffff" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## Contribution Snake Animation
+
+<!-- ANIMASI GRAFIK ULAR -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya10-bot/Aditya10-bot/output/github-contribution-grid-snake-dark.svg">
@@ -73,6 +98,11 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
     <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Aditya10-bot/Aditya10-bot/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+<br/>
+
+<!-- GARIS PEMISAH GRAFIS 4 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 <br/>
 
@@ -91,11 +121,11 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 
 <div align="center">
 
-> *"Programming is not about what you know, but about what you can figure out."*
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 <br/>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=100&section=footer" width="100%" />
+<!-- FOOTER BANNER BERGELOMBANG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=120&section=footer" width="100%" />
 
 </div>
