@@ -67,12 +67,18 @@ Full-Stack Web Developer and Network Administrator based in Indonesia. Focused o
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&hide_border=true&title_color=ff2a74&icon_color=00f5d4&text_color=ffffff&bg_color=0d1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10-bot&theme=radical&hide_border=true&background=0d1117&ring=ff2a74&fire=00f5d4&currStreakLabel=00f5d4" width="49%" alt="GitHub Streak" />
+
+  <!-- Card Stats Utama -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
+  
+  <!-- Card Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10-bot&theme=radical" width="400" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_border=true&title_color=ff2a74&text_color=ffffff&bg_color=0d1117" width="60%" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_progress=false" width="400" alt="Top Languages" />
+
 </div>
 
 <br/>
