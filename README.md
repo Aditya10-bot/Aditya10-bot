@@ -89,12 +89,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya10-bot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10-bot&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya10-bot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
