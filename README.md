@@ -52,7 +52,7 @@
 ### Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya10-bot&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Aditya10-bot&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Trophies" />
 </div>
 
 ---
