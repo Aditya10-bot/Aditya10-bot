@@ -25,7 +25,7 @@
 ---
 
 ### 🐍 Contribution Snake
-
+![Snake animation](https://raw.githubusercontent.com/<Aditya10-bot>/<Aditya10-bot>/output/github-contribution-grid-snake.svg)
 <!-- Gambar Animasi Ular (Aktif setelah membuat GitHub Action snake.yml) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya10-bot/Aditya10-bot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
